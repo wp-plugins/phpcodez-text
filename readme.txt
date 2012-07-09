@@ -15,7 +15,7 @@ block content based the given page url.
 
 It is similar to the “Text” wordpress widget except that you can decide the pages on which the content is to be printed
 
-Page urls should be entered line by line in the text area (No separated needed). With the help of exclude option you can display or block the content .
+Page urls should be entered line by line in the text area (No separation needed). With the help of exclude option you can display or block the content .
 
 == Installation ==
 
